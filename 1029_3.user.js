@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  ChatGPT와 Gemini를 화면 우측에 독립된 팝업 창으로 실행
-// @author       You
+// @author       호씨나
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
